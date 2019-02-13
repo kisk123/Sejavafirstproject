@@ -1,0 +1,4 @@
+ Type manin +CTrl+Sapcebar+enter ------>to write main method 
+ Type syso+cntrl+space bar+enter-------? to write System.out.Pirntln
+ Cltr S - Save file 
+ 
